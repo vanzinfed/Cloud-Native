@@ -4,17 +4,17 @@ import { useInView } from 'react-intersection-observer';
 
 const team = [
   {
-    name: 'Участник 1',
+    name: 'Шарикова Ксения',
     role: 'Разработчик',
     image: 'https://img.freepik.com/premium-vector/blue-circle-with-white-user-vector_941526-5764.jpg',
   },
   {
-    name: 'Участник 2',
+    name: 'Сергеева Ксения',
     role: 'UX/UI Дизайнер',
     image: 'https://img.freepik.com/premium-vector/blue-circle-with-white-user-vector_941526-5764.jpg',
   },
   {
-    name: 'Участник 3',
+    name: 'Нюшкова Маргарита',
     role: 'Контент-менеджер',
     image: 'https://img.freepik.com/premium-vector/blue-circle-with-white-user-vector_941526-5764.jpg',
   },
